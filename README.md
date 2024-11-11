@@ -1,5 +1,13 @@
-## Hi there 👋
+# Welcome to my README
+## I hope you are doing fine! Let me introduce myself 👋
+I am Sarthak Jalota, a first-year data science student pursuing a **Bachelor of Science** in Data Science and Applications from IIT Madras.
 
+- I'm currently learning Python, C/C++, and Docker Containers
+- I prefer Linux, specifically Debian-based OSes.
+- I'm looking forward to connecting with and meeting like-minded people (or data scientists)
+
+Let's make the world, a data-driven place <sub>to the moon</sub>
+ 
 <!--
 **SarthakJalota/SarthakJalota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
