@@ -5,7 +5,7 @@ I am Sarthak Jalota, a first-year data science student pursuing my **Bachelor of
 - I'm currently learning Python, C/C++, and Docker. 💻
 - I prefer Linux, specifically Debian-based OSes. 🤖
 - I'm looking forward to connecting with and meeting like-minded people (or data scientists). 🤝
-- I speak fluent English, Hindi, and Punjabi. I'm proficient in French and working on proficiency in German. 🌎
+- I speak fluent English, Hindi, and Punjabi. I'm proficient in French and working on German. 🌎
 
 Let's make the world, a data-driven place. Let's take it<sup>to the moon</sup> 🚀
  
