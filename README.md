@@ -1,6 +1,6 @@
 # Welcome to my README
 ## I hope you are doing fine! Let me introduce myself 👋
-I am Sarthak Jalota, a first-year data science student pursuing my **Bachelor of Science** in Data Science and Applications from IIT Madras.
+I am Sarthak Jalota, a second-year data science student pursuing my **Bachelor of Science** in Data Science and Applications from IIT Madras.
 
 - I'm currently learning Python, C/C++, and Docker. 💻
 - I prefer Linux, specifically Debian-based OSes. 🤖
